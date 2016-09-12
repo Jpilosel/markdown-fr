@@ -1,39 +1,45 @@
-# Les blocs de code
+# Code blocks
 
-Les blocs de codes pré-formatés sont utlisés pour écrire sur la programmation ou surligner un code source. Plus que de simple pragraphe, les lignes de code d'un bloc de code sont litterallement interprétées.
 
-Voici un exemple :
+pre-formatted code blocks are Played to write on or highlight a programming source code. More than simple pragraphe , lines of code to a code block are interpreted literally .
 
-```
-Ceci est un bloc de code 
-```
-
-Afin de créer un bloc de code en Markdown, il suffit d'identer chaque ligne du bloc avec au moins 4 espaces ou une tabulation.
-
-Par exemple :
+Here is an example :
 
 ```
-Ceci est un paragraphe normal:
 
-    Ceci est un bloc de code. 
+This is a block of code 
 ```
 
-Vous pouvez également créer un bloc de code separé avec:
 
-    ```
+To create a code block in Markdown , simply identer each line of the block with at least 4 spaces or a tab.
 
-### Bloc de code en ligne
+For example :
 
-Les blocs de code en ligne peuvent être écrit en utilisant: `
+```
 
-Par exemple:
+This is a normal paragraph:
 
-    Ceci est `un bloc de code en ligne`
+    This is a code block.
+`` `
 
-### La syntaxe de mise en avant 
+You can also create a separated block of code with :
 
-Vous pouvez definir le langage utlisé pour mettre en évidence la syntaxe en ajoutant un nom sur un mot clé ouvrant. Exemple : 
+    `` `
+
+### Block code online
+
+Online Blocks of code can be written using `
+
+For example:
+
+   ` This is a block of code in ligne`
+
+### An emphasis syntax
+
+You can define the utlise language to highlight the syntax by adding a name on a keyword opening . example:
 
     ```js
     var a = {};
     ```
+
+    
